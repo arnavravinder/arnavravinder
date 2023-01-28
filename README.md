@@ -7,7 +7,7 @@
 - 🌱 I am experienced in HTML , CSS , JS , node.js , discord.js , discord.py , SQL 
 - 🏫 Learning Flask and how to connect to hosted SQL databases
 - 🏫 Also learning [Firebase.js](https://www.firebase.com)
-- 🏆 2023 Goals : Learn more JavaScript and delpoy some complex web applications
+- 🏆 2023 Goals : Learn more JavaScript and deploy some complex web applications
 - 📫 What is the best way to contact me? [E-Mail](mailto:arnav.playstore@gmail.com)
 - 😄 Pronouns: He/Him
 
