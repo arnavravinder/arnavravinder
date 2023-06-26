@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=520&lines=Talk+is+cheap.+Show+me+the+code)](https://git.io/typing-svg)
+
+
 # Hi there, I'm Arnav <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
@@ -8,6 +11,7 @@
 - 🏫 Learning Flask and how to connect to hosted SQL databases
 - 🏫 Also learning [Firebase.js](https://www.firebase.com)
 - 🏆 2023 Goals : Learn more JavaScript and deploy some complex web applications
+- 🤖 Coding Blaze Discord bot
 - 📫 What is the best way to contact me? [E-Mail](mailto:arnav.playstore@gmail.com)
 - 😄 Pronouns: He/Him
 
@@ -30,16 +34,30 @@
 
 ### Browsers and IDE
 [![Google Chrome](https://img.shields.io/badge/Mozilla_Firefox-4285F4?style=for-the-badge&logo=firefox&logoColor=white)](https://www.mozilla.org/en-GB/firefox/new/)
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
 
-### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=arnavravinder&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavravinder&theme=tokyonight&hide_rank=true)
-](https://github-readme-stats.vercel.app/api?username=arnavravinder&theme=tokyonight&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavravinder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3> 📈 &nbsp;My Stats</h3>
 
+<div align="center">
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=buefy&show_icons=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-madha&theme=dark)
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saiteja-madha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+</div>
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
