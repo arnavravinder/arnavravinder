@@ -12,7 +12,7 @@
 - 🏫 Also learning [Firebase.js](https://www.firebase.com)
 - 🏆 2023 Goals : Learn more JavaScript and deploy some complex web applications
 - 🤖 Coding Blaze Discord bot
-- 📫 What is the best way to contact me? [E-Mail](mailto:arnav.playstore@gmail.com)
+- 📫 What is the best way to contact me? Discord : arnav_r [E-Mail](mailto:arnavravinder2009@gmail.com)
 - 😄 Pronouns: He/Him
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavravinder)
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnavravinder&theme=buefy&show_icons=true" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=arnavravinder&theme=buefy&show_icons=true](https://github-readme-stats.vercel.app/api?username=arnavravinder&theme=tokyonight&hide_rank=true)" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavravinder&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
