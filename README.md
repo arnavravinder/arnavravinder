@@ -43,9 +43,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnavravinder&theme=buefy&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavravinder&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-madha&theme=dark)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=arnavravinder&theme=dark)
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saiteja-madha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
