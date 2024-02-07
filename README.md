@@ -10,8 +10,8 @@
 - 🌱 I am experienced in HTML , CSS , JS , node.js , discord.js , discord.py , SQL 
 - 🏫 Learning Flask and how to connect to hosted SQL databases
 - 🏫 Experienced in [Firebase(.js)](https://www.firebase.com)
-- 🏆 2023 Goals : Learn more JavaScript and deploy some complex web applications
-- 🤖 Coding Blaze Discord bot
+- 🏆 2024 Goals : Learn more JavaScript and deploy some complex web applications
+- 🤖 Coding FindersKeepers , 2wentyonedares
 - 📫 What is the best way to contact me? Discord : arnav_r [E-Mail](mailto:arnavravinder2009@gmail.com)
 - 😄 Pronouns: He/Him
 
