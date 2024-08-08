@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jost&pause=1000&width=1024&lines=Talk%20is%20cheap%2C%20show%20me%20the%20code;A%20commit%20a%20day%20keeps%20a%20girlfriend%20away;There%27s%20no%20place%20like%20127.0.0.1;Roses%20are%20red%2C%20violets%20are%20blue%2C%20unexpected%20%27%7D%27%20on%20line%2032&center=true&size=27)
-
+(https://readme-typing-svg.demolab.com/?font=Jost&pause=1000&width=1024&lines=Talk%20is%20cheap%2C%20show%20me%20the%20code;A%20commit%20a%20day%20keeps%20a%20girlfriend%20away;There%27s%20no%20place%20like%20127.0.0.1;Roses%20are%20red%2C%20violets%20are%20blue%2C%20unexpected%20%27%7D%27%20on%20line%2032&center=true&size=27)
 
 # Hi there, I'm Arnav <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
