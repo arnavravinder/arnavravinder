@@ -6,13 +6,11 @@
 
 ## I'm a Developer
 
-- 🌱 I am experienced in HTML , CSS , JS , node.js , discord.js , discord.py , SQL 
-- 🏫 Learning Flask and how to connect to hosted SQL databases
-- 🏫 Experienced in [Firebase(.js)](https://www.firebase.com)
-- 🏆 2024 Goals : Learn more JavaScript and deploy some complex web applications
-- 🤖 Coding FindersKeepers , 2wentyonedares
+- 🌱 I am experienced in HTML, CSS, JavaScript, Node.js, TypeScript, and Svelte 
+- 🏆 Working on an Electronic Voting Machine
+- 🤖 Coding [redacted]
 - 📫 What is the best way to contact me? Discord : arnav_r [E-Mail](mailto:arnavravinder2009@gmail.com)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavravinder)
 
@@ -29,14 +27,15 @@
 ### OS and Cloud Services
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
-[![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![GitHub Codespaces](https://img.shields.io/badge/github%20codespaces-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/codespaces)
+[![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 
 ### Browsers and IDE
-[![Google Chrome](https://img.shields.io/badge/Mozilla_Firefox-4285F4?style=for-the-badge&logo=firefox&logoColor=white)](https://www.mozilla.org/en-GB/firefox/new/)
+[![Arc Browser](https://img.shields.io/badge/Arc_Browser-000000?style=for-the-badge&logo=arcbrowser&logoColor=white)](https://arc.net)
+[![Polypane](https://img.shields.io/badge/Polypane-282A36?style=for-the-badge&logo=polypane&logoColor=white)](https://polypane.app)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
 
 <h3> 📈 &nbsp;My Stats</h3>
 
@@ -54,7 +53,7 @@
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=arnavravinder&theme=dark)
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saiteja-madha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavravinder&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" width="100%">
 
 </div>
 
