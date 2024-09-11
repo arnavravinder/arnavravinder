@@ -6,7 +6,7 @@
 
 ## I'm a Developer
 
-- 🌱 I am experienced in HTML, CSS, JavaScript, Node.js, TypeScript, and Svelte 
+- 🌱 I am experienced in HTML, CSS, JavaScript, Node.js, TypeScript, and Svelte.
 - 🏆 Working on an Electronic Voting Machine
 - 🤖 Coding [redacted]
 - 📫 What is the best way to contact me? Discord : arnav_r [E-Mail](mailto:arnavravinder2009@gmail.com)
