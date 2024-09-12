@@ -50,7 +50,7 @@
 <br/>
 
 <div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=arnavravinder&theme=dark)
+![https://github-readme-streak-stats.herokuapp.com/?user=arnavravinder&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=arnavravinder&theme=dark)
   </div>
 
 
