@@ -1,19 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=1024&lines=Talk+is+cheap%2C+show+me+the+code.;A+commit+a+day+keeps+a+girlfriend+away.&center=true&size=27&color=36bcf7)](https://git.io/typing-svg)
 
-# Hi there, I'm Arnav <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=250&duration=2000&color=DCABDF&width=555&lines=Hi+there!+👋,+I'm+Arnav;Welcome+to+my+Github+profile+🚀" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## I'm a Developer
 
 - 🌱 I am experienced in HTML, CSS, JavaScript, Node.js, TypeScript, and Svelte.
 - 🏆 Working on an Electronic Voting Machine
 - 🤖 Coding [redacted]
-- 📫 What is the best way to contact me? Discord : arnav_r [E-Mail](mailto:arnavravinder2009@gmail.com)
+- 📫 What is the best way to contact me? Discord : arnav_r [E-Mail](mailto:arnavravinder2009@gmail.com)  
 - 😄 Pronouns: he/him
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavravinder)
+---
+## 📫 How to Contact Me?
 
+- **Discord**: [arnav_r](https://discordapp.com/users/1109714845768618044)
+- **E-Mail**: [arnav@coding4good.in](mailto:arnav@coding4good.in)
+- **Slack**: [arnav_r](https://hackclub.slack.com/team/U078XLAFNMQ)
 ---
 
 ### Frameworks and Languages
