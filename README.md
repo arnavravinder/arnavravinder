@@ -5,9 +5,9 @@
 
 ## I'm a Developer
 
-- 🌱 I am experienced in HTML, CSS, JavaScript, Node.js, TypeScript, and Svelte.
-- 🏆 Working on an Electronic Voting Machine
-- 🤖 Coding [redacted]
+- 🌱 I am experienced in HTML, CSS, JavaScript, Node.js, and TypeScript.
+- 🏆 Working on Solvr
+- 🤖 Coding Solvr
 - 📫 What is the best way to contact me? Discord : arnav_r [E-Mail](mailto:arnavravinder2009@gmail.com)  
 - 😄 Pronouns: he/him
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
