@@ -3,25 +3,29 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=250&duration=2000&color=DCABDF&width=555&lines=Hi+there!+👋,+I'm+Arnav;Welcome+to+my+Github+profile+🚀" />
 
 
-## I'm a Developer
-
-- 🌱 I am experienced in HTML, CSS, JavaScript, Node.js, and TypeScript.
-- 🏆 Working on Solvr
-- 🤖 Coding Solvr
-- 📫 What is the best way to contact me? Discord : arnav_r [E-Mail](mailto:arnavravinder2009@gmail.com)  
-- 😄 Pronouns: he/him
+## I'm a 16-year-old developer from India building tech that makes education accessible to everyone.
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
+### What I'm up to
+- 🚀 Building **[Solvr](https://solvr.in)** - AI-powered learning platform for IGCSE/A Level students
+- 🌍 Running **Coding4Good** - Teaching programming to underprivileged kids
+- 💻 Volunteering at **Hack Club** and **ZNotes** 
+- 🎯 Organizing hackathons and building communities
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavravinder)
 ---
 ## 📫 How to Contact Me?
 
-- **Discord**: [arnav_r](https://discordapp.com/users/1109714845768618044)
-- **E-Mail**: [arnav@coding4good.in](mailto:arnav@coding4good.in)
-- **Slack**: [arnav_r](https://hackclub.slack.com/team/U078XLAFNMQ)
+- 💬 Discord: [arnav_r](https://discordapp.com/users/1109714845768618044)
+- 📧 Email: arnav[dot]r [at] codeday [dot] org
+- 💬 SlacK: [arnav_r](https://hackclub.slack.com/team/U078XLAFNMQ)
 ---
 
 ### Frameworks and Languages
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMiAxOGMtMy4zMSAwLTYtMi42OS02LTZzMi42OS02IDYtNiA2IDIuNjkgNiA2LTIuNjkgNi02IDZ6Ii8+PC9zdmc+)
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
