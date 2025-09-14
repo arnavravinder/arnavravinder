@@ -67,8 +67,7 @@
 
 <div align="center">
 
-  ![]([https://github-readme-streak-stats.herokuapp.com/?user=arnavravinder&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=arnavravinder&theme=dark))
-  
+![](https://github-readme-streak-stats.herokuapp.com/?user=arnavravinder&theme=vue-dark&hide_border=true)   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavravinder&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" width="100%">
 
 </div>
